@@ -1,0 +1,31 @@
+# 初めての gemlog
+
+はろーわーるど 
+
+## Lagrange と日本語
+
+Lagrange でみたときに日本語フォントの表示が微妙におかしなことになっている.
+具体的には `。` 記号の表記などが期待通りではない.
+
+fontpack は noto-sans-cjk を入れてあって，日本語はtofuにならずに表示はされてるけど，何が原因だろう？
+単純に gemtext の書き方がなにか間違ってたりするのかな？
+
+### 追記: amfora でいいかも
+
+ターミナルで動く gemini client の amfora というやつを試してみた。シンプルで良さそう。こっちならフォントの問題とかも気にしなくてよいし。
+
+## テスト
+
+* a
+* b
+* c
+
+> 引用です
+
+```
+echo hello
+```
+
+=> //tars.flounder.online/ リンクのテスト
+
+=> https://gemini.circumlunar.space/docs/gemtext.gmi リンクのテスト2
