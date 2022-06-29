@@ -12,4 +12,4 @@ Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. Tech
 
 ## lists
 
-=> list-of-japanese-capsules.gmi 日本語のカプセルリスト(まだ何もありません)
+=> list-of-japanese-capsules.gmi これまでに見つけた日本語のカプセルリスト(まだ何もありません)
