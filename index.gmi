@@ -9,3 +9,7 @@ Hi, I'm tars. An ordinary cyberspace dweller who does programming and such. Tech
 * TZ=Asia/Tokyo
 
 => gemlog/ gemlog
+
+## lists
+
+=> list-of-japanese-capsules.gmi 日本語のカプセルリスト(まだ何もありません)
